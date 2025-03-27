@@ -1,2 +1,2 @@
 # ida_export_functions
-for llm
+Export IDA Pro Function List to a Specified Path (Markdown Format)
